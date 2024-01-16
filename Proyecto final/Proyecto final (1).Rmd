@@ -1,0 +1,790 @@
+---
+title: "Proyecto final. Estrategias didácticas que favorecen la lectoescritura en segundo grado en educación primaria"
+output:
+  pdf_document: default
+  html_document: default
+date: "2024-01-18"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+autoras:
+
+Leslie Martínez Montero
+
+Laura Lizbeth Ortíz Velazco 
+
+
+Aranza Vasquez Hernández
+
+## Introducción
+La presente investigación se refiere al tema propuesto: Estrategias didácticas que favorecen la lectoescritura en segundo grado en educación primaria . En este caso, analizar los diversos retos a los que se enfrentan los docentes al abordar la lectoescritura y las diversas maneras en las que  lo trabajan para favorecer el aprendizaje de los alumnos de segundo grado,  tema característico y variado para reflexionar durante nuestra formación como docentes.
+
+Durante el avance de nuestro trabajo, se exponen diferentes apartados, divididos en capitulos, estructurados en: planteamiento del problema, justificación, objetivo general y especificos,  marco teórico, metodología, resultados y conclusión.
+
+## Planteamiento del problema
+Una de las grandes prioridades, no solo para el profesorado, sino también para los padres y madres de familia, así como para el estudiantado en formación docente en educación primaria, es la enseñanza y el aprendizaje de la lectoescritura. 
+
+En la educación primaria existe estudiantado, quienes de acuerdo a sus características presentan problemas con respecto al proceso de lecto- escritura.
+
+Este problema se va aumentando constantemente en las escuelas y no consideran que para el niño pasar de grado en grado sin saber escribir o leer, es un daño que desencadena aún más complicaciones, por lo que buscar una solución mediante estrategias didácticas que favorezcan la lectoescritura sería la clave de lograrlo.
+
+## Justificación
+
+Este interés surge a raíz de los cambios recientes en el sistema educativo mexicano. Dado que se desconoce si se mantendrán las estrategias utilizadas en el plan de estudios de 2017 o si se introducirán modificaciones en este nuevo enfoque educativo, es fundamental comprender la modalidad en la que se trabajará en este ciclo escolar.
+
+Dentro del proceso educativo, la adquisición de habilidades de lectoescritura ocupa un lugar central, ya que no solo es una herramienta básica para el acceso al conocimiento, sino que también es fundamental para el desarrollo de habilidades cognitivas, comunicativas y sociales en los estudiantes.
+
+## Objetivo general 
+Analizar las estrategias didácticas implícitas que favorecen la lecto-escritura en segundo año de primaria a través de la indagación en los planes y programas de estudio 2017 y 2022 , con instrumentos cualitativos que permiten recabar información relevante desde la perspectiva del profesorado de segundo año durante el semestre A del ciclo escolar 2023-2024.
+
+## Objetivos específicos
+1. Analizar el campo formativo de lenguajes de la NEM, para identificar las estrategias didácticas recomendadas para el aprendizaje y/o reforzamiento de la lectoescritura en segundo año de Educación Primaria.
+
+2. Diseñar y aplicar instrumentos para identificar problemáticas y posibles estrategias didácticas que favorecen la lectoescritura a partir de opiniones y experiencias del profesorado de segundo año acerca de las estrategias didácticas utilizadas en el ciclo escolar 2023-2024.
+
+3. Identificar los desafíos a los que se enfrenta el profesorado con la llegada de la NEM en el campo de Lenguajes, a partir de la información proporcionada por el profesorado.
+
+## Marco teórico
+
+2.1 Conceptualización de la lectura y escritura.
+
+La Real Academia Española sostiene que la lectura es la: “1. Acción de leer. 2. Obra o cosa leída. 3. Interpretación del sentido de un texto” (RAE, 2020).
+Cuando la lectura es concebida como un conjunto de habilidades que deben ser alcanzadas unas tras otras, su enseñanza implica una serie de actividades mecánicas en una secuencia rígida. El paradigma del modelo mecanicista, tres que impacta fuertemente en la forma de comprender y explicar el mundo, también se aplica a la lectura. En términos de Dubois: “Casi todos los métodos de enseñanza de la lectura vigentes hasta hoy, se desarrollaron en mayor o menor medida sobre la base de esta concepción” (1996: 24). 
+Este enfoque considera que la enseñanza de la lectura, tanto en los niños como en los adultos, está constituida por niveles, en el siguiente orden: 1) el reconocimiento de palabras; 2) la comprensión; 3) la reacción emocional; y 4) la asimilación o evaluación. Esta perspectiva pionera muestra una simplicidad en la que no quedaba contemplada la complejidad de la lectura. Otras líneas teóricas intentan reponer los aspectos vacantes. Subyace un remanente de esta idea en la enseñanza de la lectura en los primeros grados escolares, cuando se espera que, desmenuzando en pequeñas unidades (sílabas, letras), se llegue finalmente a alcanzar el texto completo.( Maina,pág. 3). 
+
+La lectura, al ser visto como el proceso de comprensión de un texto y la adquisición de información en una perspectiva global, generaliza lo que es y deja a un lado las partes fundamentales que conlleva alcanzar este proceso, como lo es la pronunciación de palabras escritas, así como su identificación y posteriormente su comprensión. 
+Hablando propiamente de la escritura, según López (1997, p.21) es un proceso lingüístico cuya esencia consiste en producir significados a través de un sistema de signos gráficos estables. y por otra parte, Voltaire nos menciona que  la escritura es la pintura de la voz (1998, p.38). Por lo que podemos crear una perspectiva general con la interseccionalidad que trae consigo la lectura y la escritura, por lo que solemos entrelazarla a modo de mención como lecto-escritura. 
+
+2.2 Estrategias para la enseñanza de la lectura y la escritura.
+
+Las estrategias didácticas son las acciones planificadas por el docente con el objetivo de lograr la construcción de un aprendizaje en los alumnos. Es un procedimiento organizado, formalizado y orientado a la obtención de una meta establecida. El docente debe perfeccionar los procedimientos y técnicas en la práctica diaria y para esto es necesario que el docente planifique y programe un procedimiento, considerando las técnicas más oportunas y eficientes a la hora de conseguir un proceso de enseñanza aprendizaje efectivo.
+Schemeck y Schunck (1991) “las estrategias son secuencias de procedimientos o planes orientados hacia la construcción de metas de aprendizaje” siendo flexibles y conscientes para alcanzar el logro de objetivos propuestos.Para Díaz (1998) “Las estrategias pretenden facilitar intencionalmente un procesamiento más profundo de información nueva y son planeadas por el docente…”Son procedimientos y recursos que utiliza el docente para promover aprendizajes significativos a partir del objetivo y de las estrategias de aprendizaje independiente”.
+Existen dos tipos de estrategias didácticas: Estrategias de enseñanza. Son procedimientos empleados por el profesor para hacer posible el aprendizaje del estudiante. Incluyen operaciones físicas y mentales para facilitar la confrontación del sujeto que aprende con el objeto de conocimiento. (Ferreiro 2004). Estrategias de aprendizaje. Procedimientos mentales que el estudiante sigue para aprender. Es una secuencia de operaciones cognoscitivas y procedimentales que el estudiante desarrolla para procesar la información y aprenderla significativamente. (Ferreiro 2004)
+
+En cuanto a estrategias didácticas para la enseñanza se refiere, Díaz y Hernández (2010) Manifiesta, las estrategias didácticas como un conjunto de procedimientos, recurso, habilidades y herramientas que utiliza el docente en su labor de enseñanza, para promover aprendizajes significativos, facilitando intencionalmente en el estudiante un procesamiento del contenido nuevo de manera profunda y consciente. De igual modo, en dichas estrategias el docente actúa como tutor o guía del proceso, siendo los estudiantes quienes asumen el protagonismo de la clase, leyendo, participando, interactuando, analizando textos breves para luego construir nuevos conocimientos con sus compañeros.
+
+2.2.1 El papel de la estrategia en la lectura 
+
+Mcginitie (1986) señala: Para poder derivar significado de un texto, el lector emprende un proceso activo de construcción basado en la formulación y comprobación de varias hipótesis. El lector eficiente construye hipótesis tentativas sobre el significado del texto leído y sobre el contenido de lo que sigue. Las hipótesis continúan siendo tentativas hasta que se ha dado cuenta de toda la información vinculada. El buen lector construye y reconstruye un modelo plausible que toma en consideración todos los detalles del texto (p. 34).
+Pero, para poder construir el significado del texto, es posible lograrlo con el apoyo de diversas estrategias, las cuales nos permiten asimilar, organizar, procesar y utilizar la información que nos ofrece algún texto. Por lo tanto, la importancia de la estrategia en la lectura está en que con ella, se nos permite utilizar diversas acciones que nos de camino a poder analizar, procesar e interpretar la información brindada. 
+de igual forma, como menciona Peña (2000), por su parte, las estrategias de enseñanza deben estar adecuadas a los intereses de los alumnos, a la naturaleza de los contenidos, a los propósitos con los cuales se enfrente la lectura para permitir obtener el conocimiento y practicarlo en un contexto de uso lo más real posible. 
+
+2.2.2 El papel de la estrategia de la escritura 
+
+Como nos dice Rockets (2017) , escribir es una manera excelente para que los niños expresen sus pensamientos, creatividad y singularidad. También es una manera esencial en que los niños aprenden a organizar sus ideas. Y aprender a escribir bien ayuda a los niños a convertirse en mejores lectores.
+Por lo tanto, las estrategias nos permiten tener una guía de acciones que nos indiquen diversas maneras para poder escribir, hilando conocimientos previos para poder redactar un texto, esto junto con otras condiciones necesarias que se van aprendiendo conforme se va practicando la escritura, como lo es la ortografía, la cohesión, coherencia, claridad, entre otras. 
+Cabarcas (2016) nos dice que “el desarrollo del lenguaje es un proceso continuo que va relacionado con la construcción de significado y permite que los niños expresen ideas en relación a sus vivencias, conexiones y comprensiones sobre lo que es significativo para él”, por lo que se entiende que el apoyo del docente al implementar las diversas estrategias, sean adaptadas a sus necesidades. 
+
+2.3 Estrategias didácticas que se aplican en el campo formativo Lenguajes en los planes y programas de estudios.
+
+En palabras de Claudia Arlin Martínez Reyna y Fernando Bernal Acevedo En la actualidad, las prácticas sociales del lenguaje son la base curricular del  campo  formativo  de  lenguajes,  pues  involucran  contenidos  complejos  y  procesos graduales de acuerdo a las características de los estudiantes, así como habilidades lingüísticas que les permitan redactar y leer diferentes textos escritos. (p. 1)
+Así mismo, nos menciona Díaz F. (1999) que “Las estrategias pretenden facilitar intencionalmente un procesamiento más profundo de información nueva y son planeadas por el docente”, de igual forma nos hace mención que ”Son procedimientos y recursos que utiliza el docente para promover aprendizajes significativos a partir del objetivo y de las estrategias de aprendizaje independiente”. (p.12). Desde una perspectiva similar Díaz y Hernández (2010) Manifiesta, las estrategias didácticas como un conjunto de procedimientos, recurso, habilidades y herramientas que utiliza el docente en su labor de enseñanza, para promover aprendizajes significativos, facilitando intencionalmente en el estudiante un procesamiento del contenido nuevo de manera profunda y consciente.
+A lo largo del tiempo se han ido recopilando y utilizado varios métodos para la enseñanza y aprendizaje de la lecto- escritura, favoreciendo cada vez más su adquisición. Las más utilizadas últimamente son las siguientes: 
+Aprendizaje activo: Fomenta la participación activa de los estudiantes en su propio aprendizaje. Puede incluir debates, juegos de roles, proyectos de investigación, etc.
+Aprendizaje colaborativo: Los estudiantes trabajan juntos en grupos para resolver problemas o realizar actividades. Esto promueve el trabajo en equipo y el intercambio de ideas.
+Aprendizaje basado en proyectos: Los alumnos llevan a cabo proyectos que requieren investigación, planificación y presentación. Esto puede ser más práctico y contextualizado.
+Aprendizaje visual: Se utilizan recursos visuales como gráficos, diagramas, mapas mentales, entre otros, para facilitar la comprensión.
+
+Tecnología educativa: Integrar herramientas tecnológicas en el aula para mejorar el aprendizaje, como el uso de pizarras interactivas, aplicaciones educativas, plataformas en línea, etc.
+Enseñanza diferenciada: Adaptar la enseñanza según las necesidades individuales de los estudiantes, reconociendo que cada alumno tiene un estilo de aprendizaje único.
+Metodologías de gamificación: Introducir elementos de juegos para hacer el aprendizaje más interactivo y motivador.
+
+  2.3.1 Planes y programas anteriores
+
+El Programa de Español 1993 se organizaba en cuatro ejes: lengua hablada, lengua escrita, recreación literaria y reflexión sobre la lengua; pero los avances en las investigaciones sentaron las bases para cambiar los ejes por los componentes: expresión oral, lectura, escritura y reflexión sobre la lengua, en el Programa de 2000. (SEP,2009)
+Los programas de estudio de Español. Educación Primaria 2009, mantiene el enfoque de 1993 y del 2000, pero se actualiza para incorporar los avances de la investigación educativa de la última década e incorporar las tecnologías de la información y la comunicación, así como el uso de Bibliotecas Escolares y Bibliotecas de Aula. 
+Cabe señalar que en ambos programas, la unidad de análisis privilegiada para trabajar el lenguaje es el texto íntegro y no su fragmentación.
+En el Programa Español. Educación Primaria 2009, las prácticas sociales del lenguaje se conciben como los modos de interacción que enmarcan la producción o interpretación de los textos orales y escritos.
+El programa de español para la educación primaria 2009, tiene como propósito principal, por un lado, que los alumnos aprendan a leer y a escribir una variedad de textos para satisfacer necesidades e intereses sociales y personales, y a desempeñarse tanto oralmente como por escrito en una variedad de situaciones comunicativas. p.51.
+
+ 2.3.1.1 Propósito en el campo formativo Lenguajes en el plan de estudios 2011 que favorece la lectoescritura.
+
+A lo largo de la Educación Básica se busca que los alumnos aprendan y desarrollen habilidades para hablar, escuchar e interactuar con los otros; a identificar problemas y solucionarlos; a comprender, interpretar y producir diversos tipos de textos, a transformarlos y crear nuevos géneros y formatos; es decir, reflexionar individualmente o en colectivo acerca de ideas y textos. (SEP, 2011)
+
+ 2.3.1.2 Propósito en el campo formativo Lenguajes en el plan de estudios 2017 que favorece la lectoescritura.
+ 
+El propósito de la asignatura de Lengua Materna. Español para la primaria es que los estudiantes avancen en la apropiación y el conocimiento de prácticas sociales del lenguaje vinculadas con su participación en diferentes ámbitos, para satisfacer sus intereses, necesidades y expectativas, así como que continúen desarrollando su capacidad para expresarse oralmente y por escrito, considerando las propiedades de distintos tipos de texto y sus propósitos comunicativos. (SEP, 2017)
+
+2.3.2 La NEM
+
+Según la Secretaría de Educación Pública (2023) Es un proyecto educativo con enfoque crítico, humanista y comunitario para formar estudiantes con una visión integral, es decir, educar no solo para adquirir conocimientos y habilidades cognitivas sino también para: 1) conocerse, cuidarse y valorarse a sí mismos; 2) aprender acerca de cómo pensar y no en qué pensar; 3) ejercer el diálogo como base para relacionarse y convivir con los demás; 4) adquirir valores éticos y democráticos; y 5) colaborar e integrarse en comunidad para lograr la transformación social. Es decir, con la NEM se desea formar personas capaces de conducirse como ciudadanos autónomos, con sentido humano y crítico para construir su propio futuro en sociedad.
+El Plan de estudios de la Nueva Escuela Mexicana contempla dentro de su estructura cuatro campos formativos, los cuales son: Lenguajes; Saberes y Pensamiento Científico; Ética, Naturaleza y Sociedades; y De lo Humano y lo Comunitario. 
+En palabras de la página de la SEP (2021) Los campos formativos permiten identificar en qué aspectos del desarrollo y del aprendizaje se concentran (lenguaje, pensamiento matemático, mundo natural y social, etcétera) y constituyen los cimientos de aprendizajes más formales y específicos que los alumnos estarán en condiciones de construir conforme avanzan en su trayecto escolar, y que se relacionan con las disciplinas en que se organiza el trabajo en la educación primaria y la secundaria.
+
+El campo formativo Lenguaje y comunicación aborda el uso del lenguaje para favorecer las competencias comunicativas en las niñas y los niños debe ser una prioridad como parte del trabajo específico e intencionado en este campo formativo, pero también en todas las actividades escolares.
+
+Este campo formativo se organiza en dos aspectos: 
+
+Lenguaje oral:
+Obtiene y comparte información mediante diversas formas de expresión oral.
+Utiliza el lenguaje para regular su conducta en distintos tipos de interacción con los demás.
+Escucha y cuenta relatos literarios que forman parte de la tradición oral.
+Aprecia la diversidad lingüística de su región y su cultura.
+
+Lenguaje escrito:
+Utiliza textos diversos en actividades guiadas o por iniciativa propia, e identifica para qué sirven.
+Expresa gráficamente las ideas que quiere comunicar y las verbaliza para construir un texto escrito con ayuda de alguien.
+Reconoce características del sistema de escritura al utilizar recursos propios (marcas, grafías, letras) para expresar por escrito sus ideas.
+Selecciona, interpreta y recrea cuentos, leyendas y poemas, y reconoce algunas de sus características.
+
+2.3.2.1 Campo formativo Lenguajes fase 3.
+
+En la tercera fase de educación primaria se busca propiciar que las niñas y los niños avancen en el uso gradual y continuo de múltiples lenguajes; en particular, la adquisición de la lengua escrita cobra relevancia respecto de otros, porque comenzarán a formalizar la elaboración de ideas propias sobre las funciones y usos del lenguaje lo que les permitirá reflexionar sobre sus convenciones, mediante actividades que conlleven la lectura y escritura en situaciones y contextos lúdicos, estéticos, artísticos, de indagación, estudio u otros, así como desarrollar el pensamiento y las habilidades comunicativas. Las niñas y niños que cursan los dos primeros grados de primaria participan en diversas prácticas sociales de los lenguajes, dependiendo del contexto donde se encuentren.Conviene tener presente, que la adquisición de la escritura es un proceso que se realiza mediante la interacción directa con una diversidad de textos con un propósito y un significado en el mundo cotidiano, a través de la lectura, escritura, representación, juego, estudio y compartición, no por medio de la producción y reproducción sin sentido de textos. Dicho contacto con la escritura crea ambientes para que las niñas y los niños formulen hipótesis sobre la escritura misma, y que las vayan poniendo a prueba y ajustando a partir de la comprensión e interpretación.
+
+Esta propuesta, contempla una alfabetización en el sentido amplio; por lo tanto, la labor de las y los docentes, es propiciar la participación de sus alumnas y alumnos en prácticas de lenguaje escrito, aún cuando no dominen la escritura alfabética. Al mismo tiempo, tienen el reto de ayudar a las niñas y niños a incrementar sus conocimientos sobre las letras y su empleo, pero en el marco de este uso social del lenguaje.El aprendizaje de los lenguajes tendrá que impulsarse a partir de su uso en los ámbitos escolar, familiar y comunitario, para lo cual resulta esencial que las y los docentes promuevan la participación de sus estudiantes en distintas lenguas (español, lenguas indígenas y de señas), situaciones y contextos, que permitan que las niñas y los niños se sensibilicen, exploren, cuestionen, anticipen, reflexionen, dialoguen, comparen, infieran y encuentren otras formas de interactuar con manifestaciones culturales y artísticas, y con su entorno natural y social, pero sobre todo, que comiencen en esta etapa sus primeras lecturas, escrituras y usos de los lenguajes artísticos de manera autónoma.
+
+2.4  La metodología  aplicada para la lecto- escritura.
+
+Afirma Morales, Víctor. (2002) que la Metodología es la ciencia de los métodos, es decir, es el estudio crítico del conjunto de operaciones y procedimientos racionales y sistemáticos que utiliza el ser humano para encontrar soluciones óptimas a problemas complejos, teóricos o prácticos. Para complementar según Cristóbal (20215) nos dice que para que un método sea eficaz deben cumplirse las siguientes condiciones:
+
+
+
+- Que contribuya al desarrollo total del alumno;
+- Que fomente la actividad del alumno en el proceso del aprendizaje así como la intercomunicación de los alumnos;
+- Que se adapte al ritmo del progreso y características individuales;
+- Que motive intrínsecamente;
+- Que se desarrolle en un ambiente relajado y de libertad controlada;
+- Que haga posible en el alumnado el conocimiento de sus progresos y su autoevaluación del aprendizaje;
+- Que en su desarrollo permita la transferencia a otros ámbitos y aprendizaje.
+
+Estos autores nos dicen que la elección de un método u otro suele venir determinado por la tradición (el maestro enseña con el método que le enseñaron a él) y en muchas ocasiones se escoge el método siguiendo la propuesta de las editoriales. Salmon (2009) opina que “los programas de lectoescritura para niños pequeños tienen la tendencia a sobredimensionar la instrucción sistemática de destrezas aisladas de lectura y escritura […] minimizando elementos clave como la comprensión, el vocabulario y la motivación” (p. 64)
+Galera (2001) clasifica los métodos en:
+
+- Sintéticos, priorizan los factores lógicos y técnicos del lenguaje, comenzando a enseñar primero los elementos más simples y abstractos del lenguaje como son las letras, fonemas o sílabas.
+
+- Analíticos o analíticos-globales, parten de elementos más complejos como son la frase o la palabra.
+
+- Mixtos o combinados.
+
+2.4.2 Métodos Analiticos 
+
+Los métodos analíticos o globales defienden que el aprendizaje de la lectura debe comenzar por unidades con significado y dependientes de la información contextual. Así en su enseñanza comienzan por la frase o palabra y terminan en las sílabas y letras. La enseñanza de la lectura no se centra en sus inicios en la decodificación grafema-fonema, sino en el estudio de unidades complejas con significado (frases, palabras) para que al final del proceso el niño sea capaz de conocer y distinguir los elementos más simples (sílabas y letras) en base a la descomposición de esas unidades significativas.Tiene como base la enseñanza de la palabra. 
+El método de lecto-escritura global consiste en aplicar a la enseñanza de la lectura y escritura el mismo proceso que se sigue en los niños para enseñarles a hablar. Los niños, gracias a su memoria visual, reconocen frases y oraciones y en ellas las palabras. Espontáneamente establecen relaciones y reconocen los elementos idénticos en la imagen de dos palabras diferentes. De este modo, la palabra escrita es el dibujo de una imagen que evoca cada idea.Los signos dentro de las palabras tienen un sentido y en su presentación escrita son transformados en fonemas. De esta forma, el hecho de comprender enteras las palabras y la oración, permite una lectura inteligente y fluida desde el principio, favoreciendo ñla comprensión lectora, y no una simple mecanización del proceso lector, como se ha venido haciendo tradicionalmente.
+
+Este método tiene la ventaja de atender al proceso psicológico el valor significativo de la lectura y hace motivar a los niños y niñas de forma activa en el trabajo. Su inconveniente es que descuida la atención de las percepciones auditivas y restringe los textos y las palabras clave, limitando así, el descubrimiento personal de los niños y niñas, sus necesidades de comunicación y olvidando la relación entre el lenguaje hablado y el escrito.
+Se hace evidente que el aprender a leer con este método propicia una lectura rápida y fluida, una pronunciación correcta, con sus pausas y entonaciones oportunas y, sobre todo, una verdadera comprensión de lo que se lee. Asimismo, podemos finalizar exponiendo una serie de ventajas que subyacen con la utilización de este método frente a otros métodos de lecto-escritura .
+
+Palabras normales: este método consiste en partir de la palabra normal denominada también generadora o generatriz, la cual se ha previsto antes, luego se presenta una figura que posea la palabra generadora, la palabra generadora se escribe en la pizarra y los alumnos en los cuadernos. Luego es leída para observar sus particularidades y después en sílabas y letras las cuales se mencionan por su sonido. Se reconstruye la palabra con la nueva letra y se forman nuevas sílabas.  
+     
+2.4.2 Métodos Sintéticos 
+
+Los métodos sintéticos-fonéticos son métodos que dan prioridad al proceso de aprendizaje y no al resultado del mismo, en ellos el conocimiento alfabético se convierte en una habilidad básica del aprendizaje lector, partiendo de que la fluidez y automatización de este conocimiento contribuyen a la comprensión, ocupando el contexto un papel secundario; se sostiene por tanto que las unidades de aprendizaje deben ser las estructuras lingüísticas más simples (grafema, fonema, sílaba) para posteriormente pasar a fusionar éstas en unidades más amplias con signifi cado (palabra, frase), de este modo, los procesos de decodificación adquieren gran relevancia en estos métodos.
+
+Los métodos sintéticos se basan en la correspondencia entre el sonido y la grafía. Establecen una correspondencia a partir de los elementos mínimos de lo escrito, de la letra, en un proceso consistente en ir de la parte al todo. Así, parten del reconocimiento de los signos o sonidos más elementales. Los alumnos aprenden en primer lugar todas las letras y su sonido, luego combina las consonantes y las vocales en sílabas, éstas en palabras y éstas en frases. Se trata de un proceso de fusión silábica que corresponde a un trabajo de síntesis de ahí el nombre de estos métodos. 
+Los métodos sintéticos parten de la unidad más pequeña a la más compleja, es decir parten de lo más abstracto para llegar a lo concreto.
+Estos métodos pueden ser :
+
+
+- Método alfabético.
+Se empieza por el aprendizaje del alfabeto. El alumnado debe reconocer cada una de las letras y aprender “el nombre de la letra”. Después, se harán las combinaciones silábicas. El inconveniente que plantea este método es que al alumnado se le exige leer de un modo distinto a como se le ha enseñado a identificar el signo.
+ 
+- Método fónico / fonético.
+Este método parte de la enseñanza de la pronunciación de las letras con lo que se facilita el paso a cualquier asociación posterior (sílabas). Los pasos posteriores coinciden con el planteamiento general de los métodos sintéticos pues se asocia a cada fonema una expresión gestual que el alumnado debe aprender y gesticular cada vez que pronuncie el sonido. Este recurso memorístico para el proceso lector será eliminado una vez que el niño y la niña reconozcan los sonidos. Es un proceso mecanicista y poco motivador.
+Enfoca el aprendizaje del lector desde una perspectiva didáctica como necesidad escolar, que debe realizarse mediante la enseñanza directa. Este método requiere un procedimiento sistemático de la acción educadora y un carácter procesal basado en la identificación de grafemas, que permitan el acceso al contenido del texto. En él se practica la relación entre sonidos y símbolos. Este sistema da prioridad a los elementos lógicos y técnicos del lenguaje, poniendo todo énfasis en el proceso de aprendizaje y no en el resultado. Tiene una postura sintética. Bajo la concepción de reconocimiento de palabras existen varios métodos de lectura tales como: alfabético, silábico, onomatopéyico, de palabras generadoras, global, ideovisual y ecléctico o mixto (Freeman, 1988). El método fónico recoge las ideas esenciales de los métodos de reconocimiento de palabras mencionados, de ahí la tendencia a agrupar con él los demás métodos.
+ 
+- Método silábico.
+Con este método se parte de la sílaba por constituir la unidad que percibe y distingue el oído de la persona. La aplicación sigue siendo mecánica y ascendente. Destaca el esfuerzo memorístico que exige por parte de los alumnos y alumnas.
+
+
+2.4.3 Método ecléctico  
+
+El método ecléctico es una técnica que permite apoyar a los estudiantes con problemas de lectoescritura. Este método propone una estrategia que busca mejorar las habilidades lectoescritoras de estudiantes con problemas de aprendizaje.
+Uno de los beneficios que ofrece el método ecléctico es facilitar a los docentes su manera de interactuar con los estudiantes, puesto que es una técnica flexible que permite avanzar paso a paso cada ítem para llegar a la comprensión como también incentivar un aprendizaje significativo creando en los niños interés y deseos de aprender.
+
+El método ecléctico es un método sintético-analítico que aprovecha las ventajas de ambos sistemas de enseñanza y aprendizaje para crear un proceso más real y adaptado a verdaderas necesidades. Es un método que integra aspectos de ambos tipos de métodos y favorece el aprendizaje de las letras y la comprensión lectora. (FUENTES, 2017, p. 21).
+
+Los fundamentos del método ecléctico son analíticos, sintéticos. Adaptación a las necesidades educativas de cada estudiante el aprendizaje de la lectura y la escritura de manera simultánea. El eclecticismo consiste en usar los mejores elementos de varios métodos para formar un nuevo pero agregados a una idea definida. (Mendoza, 2012, p. 10).
+
+El método ecléctico cuenta con varias ventajas gracias a que garantiza el correcto aprendizaje y el desarrollo de las habilidades de escritura y lectura. Es un modelo que motiva el deseo de aprender en los estudiantes y favorece la comprensión de los mismos. Se adapta fácilmente a las características individuales de los alumnos y ofrece un proceso de aprendizaje personalizado. Evita que en el futuro el niño pueda presentar alguna dificultad durante su etapa escolar, ya que integra todas las rutas que llevan a la lectoescritura (léxica y fonológica). Esta metodología favorece el aprendizaje simultáneo de la escritura y la lectura. Los estudiantes reciben una educación significativa donde aprenden unidades mínimas y elementos concretos que se adaptan a su manera de pensar. (KIDStudia, 2020, p. 1)
+
+2.5 Desafíos y áreas de oportunidad más comunes que enfrentan docentes y estudiantes de segundo año de primaria.
+
+Enseñar en la escuela primaria puede ser un desafío, ya que los maestros se enfrentan a diversas situaciones que pueden influir en el proceso educativo. 
+Según la página UNIR (2022)  Se consideran problemas en el aprendizaje de la lectoescritura cuando un alumno no es capaz de alcanzar varios ítems de evaluación relacionados con este proceso durante un largo período. Esto provoca, además, retrasos del aprendizaje en el resto de áreas. También pueden presentar otras dificultades o trastornos de tipo neurológicos, genéticos. 
+
+2.5.1 Retos para el docente en lecto- escritura.
+
+Como se mencionaba anteriormente, a lo largo de la Jornada escolar, se mencionan ciertas enfermedades genéticas, las cuales pueden llegar a interferir o complicar este proceso de enseñanza de la lengua escrita y oral. Entre las cuales se presenta: 
+
+Dislexia. Trastorno relacionado con la lectura que afecta a la capacidad de leer y reconocer palabras, por lo que el niño las va intuyendo erróneamente y cambia, omite o confunde las letras y los fonemas, alterando el orden o confundiendo los sonidos. Esto también afectará a la hora de escribir, ya que intercambiará la ortografía de las letras. Puede ser adquirida, es decir, provocada por una lesión cerebral, o evolutiva.
+
+Disgrafía. La disgrafía es un trastorno del aprendizaje relacionado con el proceso escritor y supone la dificultad del alumno para coordinar los movimientos del brazo con la mano. Todo ello deriva en problemas motrices, incapacidad para utilizar las herramientas propias de la escritura y, por tanto, el aprendizaje de escribir.
+
+Disortografía. Esta dificultad supone que el alumno no es capaz de relacionar el proceso de escritura con las normas ortográficas establecidas para ello. Tiene problemas para reconocer, comprender y escribir los símbolos empleados para llevar a cabo el aprendizaje de la escritura.
+
+Retraso en la lectura. Se caracteriza por presentar problemas a la hora de leer relacionados con la velocidad, la precisión y la comprensión lectora. Esto es consecuencia de la dificultad del estudiante para decodificar las palabras que quiere leer. No consigue, en definitiva, identificar los sonidos con las palabras, lo que le lleva a no leer de manera correcta y a producir retraso en la comprensión lectora.
+
+Nos dice la UNIR (2022) que como docentes se pueden presentar retos que no solo tienen que ver con el alumnado, sino también con el contexto escolar en el que se desarrolla el docente. Algunos de los retos que más se repitieron en este documento fueron: 
+Presión social por parte de los compañeros docentes. Esto se da debido a que, en determinada etapa en educación primaria (primer año) se espera que el alumno ya esté en ese proceso de lecto- escritura, lo cual genera presión al docente por alcanzar este objetivo. 
+No hay renovación de estrategias y contenidos: admiten que quizá necesitan actualizar ciertos aspectos de su formación inicial y, paradójicamente, mencionan los teóricos, que se han quedado anticuados, pero declaran que no lo hacen por varios motivos: falta de tiempo, exceso de trabajo y porque consideran que la teoría no es muy útil. Santamarina y Núñez (2021) nos dice que “ Los docentes, por esta situación no concretan en su discurso qué cambios aplican en sus clases derivados de la formación permanente. Sí afirman que, aunque en esto no están muy actualizados, cuando acuden a cursos, la información teórica les parece secundaria y hasta innecesaria; ninguna de las personas entrevistadas hace mención a los fundamentos teóricos de sus actividades o programaciones”. 
+Estancamiento en herramientas: al desarrollar su labor docente, carece de el uso de otros medios o recursos didácticos, además de la libreta, un libro y el lápiz. Si bien, en su mayoría cumplen con la función de la adquisición de la lectoescritura, existen otro tipo de herramientas que podrían llegar a facilitar de mejor forma esta enseñanza, como lo son las TIC. 
+
+## Marco metodológico
+
+3.1 Método
+
+El presente trabajo de investigación “estrategias didácticas que favorecen la lectoescritura en segundo grado en educación primaria”, por naturaleza se realizará con el método descriptivo, el cual, en palabras de Morales F.  (2012) “...consiste en llegar a conocer las situaciones, costumbres y actitudes predominantes a través de la descripción exacta de las actividades,objetos, procesos y personas. Su meta no se limita a la recolección de datos, sino a la predicción e identificación de las relaciones que existen entre dos o más variables.”
+
+3.2 Enfoque 
+
+En palabras de Pita y Díaz (2002) “la investigación cuantitativa trata de determinar la fuerza de asociación o correlación entre variables, la generalización y objetivación de los resultados a través de una muestra para hacer inferencia a una población de la cual toda muestra procede. Tras el estudio de la asociación o correlación pretende, a su vez, hacer inferencia causal que explique por qué las cosas suceden o no de una forma determinada.”
+Gracias a la investigación realizada y contemplando los objetivos planteados en un inicio se llegó a la conclusión de realizar una investigación con enfoque cuantitativo, permitiendo así analizar interpretar de forma más óptima los resultados que nos arroje la investigación.
+
+3.3 Alcance 
+
+Con base a la investigación se pretende analizar las estrategias didácticas  que favorezcan la lecto-escritura en segundo año de primaria a través de la indagación en  los planes y programas de estudio 2017 y 2022 , con instrumentos cualitativos que permitan recabar información relevante desde la perspectiva del profesorado de segundo año durante el semestre A del ciclo escolar 2023-2024. Para llegar a dicho objetivo, nos apoyaremos de un instrumento de la técnica de encuesta: el cuestionario  que según (Casas, Repullo y Donado, 2003). El cuestionario es un instrumento utilizado para recoger de manera organizada la información que permitirá dar cuenta de las variables que son de interés en cierto estudio, investigación, sondeo o encuesta.
+
+3.4 Participantes
+
+Para esta investigación se partió de la colaboración y participación de docentes pertenecientes a las escuelas “Lázaro Cárdenas del Río” (19 docentes), “Emiliano Zapata” (17 docentes), y “Justo Sierra” (15 docentes) , mismos que se nos asignaron por parte de la Benemérita Escuela Normal Veracruzana Enrique C. Rébsamen” como escuelas de práctica. 
+ 
+3.5 Muestra
+
+La población de la cual se partió la investigación fue con tres maestras titulares a cargo de 2do grado de primaria, de las cuales, tres son pertenecientes a la escuela primaria “Lázaro Cárdenas del Río” ubicada en la localidad de Banderilla, tres perteneciente a la escuela primaria “Emiliano Zapata” ubicada en la localidad de Xalapa, Enriquez, ambas ubicadas en el estado de Veracruz, además de cuatro maestros de la escuela “Justo Sierra”, dando un total de diez docentes. 
+
+
+3.6 Instrumento
+
+instrumento: cuestionario 
+técnica: encuesta
+
+   3.6.1 Elaboración 
+   
+Este instrumento fue desarrollado a partir de la decisión con enfoque cuantitativo, por lo que se trabajó con un cuestionario, con técnica encuesta, elaborado de manera digital a partir de google form. Se enunciaron una serie de preguntas,  con un total de 13 preguntas, abarcando diversos criterios (rasgos de la lectura: fluidez, entonación, comprensión lectora; y rasgos de la escritura: redacción)  enfocados al tema para profundizar el análisis de nuestra investigación.
+
+3.6.2 Validación
+
+Para la validación del instrumento, solicitamos el apoyo a un experto para dar revisión a cada una de nuestras preguntas y así poder brindarnos su crítica constructiva en dado caso de existir errores y posteriormente hacer los debidos cambios y correcciones para que el instrumento fuera aceptado y validado. 
+
+3.6.3 Pilotaje
+
+Este instrumento estuvo en prueba piloto en la escuela Enrique C. Rébsamen ubicada en la Colonia Manuel González, Zentla, Ver con clave 30EPR2674P. Fue aplicado a docentes de segundo grado de primaria con un rango de edad entre 37 a 50 años de edad. Las aulas de clases tienen un estimado entre 20 y 30 alumnos por salón. Con respecto al contexto, es una zona con economía media baja dedicada al cultivo del café. 
+
+
+Paqueterias.
+
+Se utilizaron las siguientes paqueterias para la elaboración de las nubes: 
+
+- tidytext
+
+- wordcloud
+
+- dplyr
+
+- csv
+
+
+Se utilizaron las siguientes paqueterías para la elaboración de las gráficas de barras:
+
+- ggplot2
+
+- bartplot
+
+- readxl
+
+- csv
+
+
+
+## Análisis de resultados 
+Con el fin de  llevar a cabo el análisis de los resultados, se efectuó la transcripción de las respuestas del cuestionario. Se procedió a analizar cada respuesta, y se concentraron en una tabla de análisis para una gestión más eficaz de la información proporcionada. Finalmente, se llevó a cabo la triangulación de la información empírica y teórica para facilitar el análisis de los resultados obtenidos (ver apéndice).
+Con la información concentrada, se inició el análisis de cada una de las subcategorías mediante la creación de una tabla que abarca desde el ámbito de la temática, el problema de investigación hasta los objetivos y las subcategorías. El propósito fue descubrir los alcances y la relevancia de cada categoría para la investigación.
+Para el análisis de la información obtenida  se realiza a partir de una triangulación ya que  es una estrategia de investigación que consiste en utilizar múltiples fuentes, métodos o perspectivas para analizar un fenómeno o problema desde diferentes ángulos, con el objetivo de obtener una comprensión más completa y precisa.Según Denzin (1978), la triangulación es una estrategia crucial en la investigación que implica la convergencia de datos provenientes de múltiples fuentes y métodos. Este enfoque proporciona una validación cruzada que fortalece la fiabilidad y validez de los hallazgos.
+
+## Resultados
+A continuación se presentan los resultados obtenidos de la aplicación del cuestionario al profesorado de segundo año de primaria de las primarias “Emiliano Zapata y Lázaro Cárdenas del Río “ del ciclo escolar 2023- 2024 de los cuales se tomó una muestra de 10 maestros.  La información de este capítulo está estructurada con base en el análisis de las estrategias de aprendizaje utilizadas para la enseñanza de la lecto-escritura así como los retos que enfrentan durante el cambio que ha tenido el sistema educativo Méxicano.
+En el análisis de cómo los profesores enseñan a leer y escribir, se han identificado algunas pautas que nos ayudan a entender mejor su práctica docente. Estas pautas se centran en los enfoques y estrategias didácticas que los maestros eligen para la enseñanza de la lectura y escritura. Es decir, se busca comprender cómo abordan estos aspectos fundamentales del aprendizaje en el aula.
+
+La primera categoría que se analizará es la lecto-escritura  compuesta por N subcategorías que a su vez cuentan cada una con un indicador , de los cuales se revisarán cada uno a detalle ; la primer subcategoría es las  dificultades y retos que presenta el docente en la enseñanza de la lectoescritura  y su indicador Problemas identificados en lecto- escritura(PILE).
+En donde el profesorado  responde ¿Cuáles son los principales problemas que ha identificado en sus alumnos asociado al proceso de lecto-escritura?
+FEDCM1 La falta de práctica en casa;FME2 confunden sonido con grafía, porque apenas están en el proceso silábico tienen conocimiento de algunas sílabas y su grafía, les cuesta separar palabras;FMRR3 falta de maduración ,falta de reforzamiento en casa algunos niños no cursaron jardín de niños;MGGG4 de un total de 18 alumnos, 5 aún no escriben convencionalmente y tampoco leen 7 alumnos leen, pero no comprenden y sólo 6 leen y escriben eficientemente;PSG5 en la lectura la falta de comprensión, la fluidez, el ritmo y entonación de la lectura en la redacción la falta de coherencia en las ideas así como la ortografía y la falta de implementación del uso de los signos de puntuación;FRGHN6 la lecto-escritura, y comprensión ; FEJB7 La falta de comprensión lectora;FRGF8 Comprensión lectura ;FMAVC9 No identificación de letrasFAG10 Maduración, motricidad, falta de apoyo en casa.
+Al analizar los datos pudimos darnos cuenta que uno de los principales problemas asociados al proceso de lecto-escritura es la comprensión lectora. Es fundamental destacar la importancia de la misma, ya que, como señala Smith (2018), "la comprensión lectora es un proceso cognitivo complejo que implica la interacción entre el lector, el texto y el contexto, y es esencial para el éxito académico y la participación efectiva en la sociedad" (p. 45)
+
+
+## GRÁFICAS NUBE DE PALABRAS
+
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+textos1<-read.csv("N1.csv")
+```
+
+
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+stop_words<-read.csv("stop_words.csv")
+```
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+library(tidytext)
+```
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+library(wordcloud)
+```
+
+```{r, echo=FALSE, warning=FALSE, echo=FALSE, message=FALSE}
+library(dplyr)
+```
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+install.packages("csv")
+```
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+library(csv)
+```
+
+```{r, echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE}
+word_freq1 <- textos1 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+Figura 1: Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 1.
+
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq1$word,
+          freq = word_freq1$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+```{r, echo=FALSE}
+textos2<-read.csv("N2.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stop_words.csv")
+```
+
+```{r, echo=FALSE}
+word_freq2 <- textos2 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+
+Figura 2: Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 2.
+
+
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq2$word,
+          freq = word_freq2$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+```{r, echo=FALSE}
+textos3<-read.csv("N3.csv")
+
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stop_words.csv")
+
+```
+
+```{r, echo=FALSE}
+word_freq3 <- textos3 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+Figura 3: Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 3.
+
+
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq3$word,
+          freq = word_freq3$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+```{r, echo=FALSE}
+textos4<-read.csv("N4.csv")
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stop_words.csv")
+
+```
+
+```{r, echo=FALSE}
+word_freq4 <- textos4 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+
+Figura 4:Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 4. 
+
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq4$word,
+          freq = word_freq4$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+
+```{r, echo=FALSE}
+textos5<-read.csv("N5.csv")
+
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stop_words.csv")
+
+```
+
+```{r, echo=FALSE}
+word_freq5 <- textos5 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+
+Figura 5:Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 5. 
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq5$word,
+          freq = word_freq5$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+```{r, echo=FALSE}
+textos6<-read.csv("N6.csv")
+
+```
+
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stop_words.csv")
+
+```
+
+
+```{r, echo=FALSE}
+word_freq6 <- textos6 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+
+Figura 6:Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 6.
+
+
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq6$word,
+          freq = word_freq6$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+```{r, echo=FALSE}
+textos7<-read.csv("N7.csv")
+
+```
+
+```{r, echo=FALSE}
+stop_words<-read.csv("stop_words.csv")
+
+```
+
+
+```{r, echo=FALSE}
+word_freq7 <- textos7 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>% 
+  count(word) 
+```
+
+
+Figura 7:Nube de palabras
+frecuencia de palabras que se repiten más en las respuestas de la pregunta 7.
+
+
+```{r, echo=FALSE}
+wordcloud(words = word_freq7$word,
+          freq = word_freq7$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("Green","blue", "pink", "red", "purple"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+##  GRÁFICOS DE BARRAS 
+
+
+```{r, echo=FALSE, warning=FALSE, echo=FALSE, message=FALSE}
+install.packages(c("readxl", "dplyr"))
+
+```
+
+```{r, echo=FALSE, warning=FALSE, echo=FALSE, message=FALSE}
+library(readxl)
+library(dplyr)
+```
+
+
+
+
+```{r, echo=FALSE}
+G2 <- read_excel("G2.xlsx")
+```
+
+```{r, echo=FALSE}
+media_reactivos <- colMeans(G2[,c("Bajo",
+                                  "Deficiente",
+                                  "Regular",
+                                  "Bueno",
+                                  "Sobresaliente")])
+```
+
+
+
+
+```{r, echo=FALSE}
+media_reactivos
+```
+
+Figura 8: Frecuencia en el criterio de lectura con fluidez al responder la pregunta 8 del cuestionario.
+
+```{r, echo=FALSE}
+barplot(media_reactivos, main = "Gráfico de barras",
+        ylim = c(0,10),
+        xlim = c(0,6),
+        ylab = "maestros encuestados",
+        xlab = "Escala",
+        col = c("cyan3"),
+        width = c(0.8))
+```
+
+```{r, echo=FALSE}
+G3 <- read_excel("G3.xlsx")
+```
+
+```{r, echo=FALSE}
+media_reactivos <- colMeans(G3[,c("Bajo",
+                                  "Deficiente",
+                                  "Regular",
+                                  "Bueno",
+                                  "Sobresaliente")])
+```
+
+
+
+
+
+
+
+
+```{r, echo=FALSE}
+media_reactivos
+```
+
+
+Figura 9:Frecuencia en el criterio de lectura con entonación al  responder la pregunta 9 del cuestionario.
+
+```{r, echo=FALSE}
+barplot(media_reactivos, main = "Gráfico de barras",
+        ylim = c(0,10),
+        xlim = c(0,6),
+        ylab = "maestros encuestados",
+        xlab = "Escala",
+        col = c("cyan3"),
+        width = c(0.8))
+```
+
+```{r, echo=FALSE}
+G4 <- read_excel("G4.xlsx")
+```
+
+```{r, echo=FALSE}
+media_reactivos <- colMeans(G4[,c("Bajo",
+                                  "Deficiente",
+                                  "Regular",
+                                  "Bueno",
+                                  "Sobresaliente")])
+```
+
+
+
+
+
+```{r, echo=FALSE}
+media_reactivos
+```
+
+Figura 10: Frecuencia en el criterio  de lectura con entonación al  responder la pregunta 10 del cuestionario.
+
+```{r, echo=FALSE}
+barplot(media_reactivos, main = "Gráfico de barras",
+        ylim = c(0,10),
+        xlim = c(0,6),
+        ylab = "maestros encuestados",
+        xlab = "Escala",
+        col = c("cyan3"),
+        width = c(0.8))
+```
+
+```{r, echo=FALSE}
+G5 <- read_excel("G5.xlsx")
+
+```
+
+```{r, echo=FALSE}
+media_reactivos <- colMeans(G5[,c("Bajo",
+                                  "Deficiente",
+                                  "Regular",
+                                  "Bueno",
+                                  "Sobresaliente")])
+```
+
+
+
+
+
+```{r, echo=FALSE}
+media_reactivos
+```
+
+Figura 11:Frecuencia en el criterio de comprensión lecora al responder la pregunta 11 del cuestionario.
+
+
+```{r, echo=FALSE}
+barplot(media_reactivos, main = "Gráfico de barras",
+        ylim = c(0,10),
+        xlim = c(0,6),
+        ylab = "maestros encuestados",
+        xlab = "Escala",
+        col = c("cyan3"),
+        width = c(0.8))
+       
+```
+
+## CONCLUSIÓN
+
+
+Dentro de este apartado se describirán las conclusiones a las que se llegaron considerando el objetivo de analizar las estrategias didácticas implícitas que favorezcan la lecto-escritura en segundo año de primaria a través de la indagación en  los planes y programas de estudio 2017 y 2022 , con instrumentos cualitativos que permitieron recabar información relevante desde la perspectiva del profesorado de segundo año durante el semestre A del ciclo escolar 2023-2024. El proyecto de investigación "Estrategias didácticas que favorecen la lectoescritura en segundo grado en educación primaria" ha arrojado resultados valiosos para comprender las complejidades y desafíos que enfrentan los docentes en el proceso de enseñanza-aprendizaje de la lectoescritura con  la Nueva Escuela Mexicana.
+La realización de la investigación sobre estrategias didácticas que favorecen la lectoescritura en segundo grado de educación primaria ha sido una experiencia enriquecedora A lo largo del proceso, gracias a la investigación y recabación de datos, hemos profundizado en el entendimiento de la importancia de estas estrategias, desde una perspectiva teórica y por medio de experiencia docente, en el desarrollo académico de los estudiantes en esta etapa crucial en su educación. A medida que avanzábamos en la investigación, también nos percatamos de la importancia de la colaboración entre docentes, padres y la comunidad educativa en general, permitiendo el desarrollo integral y el éxito educativo de los estudiantes. La creación de un entorno de apoyo, donde todos los actores involucrados se comprometen con el proceso de lectoescritura, contribuye significativamente al éxito de las estrategias implementadas ayudan a enriquecer su formación académica e integral como estudiantes y seres humanos. 
+Al concluir este trabajo de investigación, podemos afirmar que la experiencia fue enriquecedora y desafiante a la vez. Durante el proceso, nos sumergimos en un extensa búsqueda de información de la cual recopilamos datos más  relevantes para nuestro trabajo  y aplicamos metodologías específicas para abordar nuestra pregunta de investigación. A lo largo de este proyecto, nos enfrentamos a diversas dificultades y aprendemos valiosas lecciones que contribuyeron a nuestro crecimiento académico y personal. Desde un punto de vista emocional, experimentamos una variedad de sentimientos a lo largo de este proyecto. La curiosidad inicial nos impulsó a explorar el tema, mientras que los desafíos nos recordaron la complejidad inherente a la investigación. La colaboración en equipo y la dedicación individual fueron fundamentales para superar obstáculos y alcanzar nuestros objetivos. La realización de este trabajo de investigación no sólo consolidó nuestros conocimientos sobre , las estrategias didácticas   que favorecen a la lecto- escritura sino que también nos proporcionó habilidades prácticas en la aplicación de métodos de investigación. Aunque el camino estuvo lleno de altibajos, el resultado final es un testimonio de nuestro compromiso. Este proyecto deja una impresión duradera en nosotros, guiándonos hacia futuras exploraciones y descubrimientos en el  mundo de la investigación así como dejando gran enseñanza  que en un futuro nos ayudará para concluir de manera satisfactoria la licenciatura.
+La enseñanza y el aprendizaje de la lectoescritura en la educación primaria representan una preocupación compartida por profesores, padres y estudiantes en formación docente. La falta de habilidades de lectura y escritura en los primeros años de educación primaria puede tener consecuencias a largo plazo para el desarrollo académico de los niños.
+Es crucial reconocer que el paso de grado en grado sin adquirir habilidades básicas de lectura y escritura puede generar complicaciones adicionales en el desarrollo educativo de los niños. Por lo tanto, la investigación propuesta busca no solo entender las estrategias actuales sino también proponer soluciones mediante la recopilación de información directa de los profesores de segundo año durante el ciclo escolar 2023-2024.
+En última instancia, la clave para abordar el desafío de la lectoescritura en la educación primaria radica en la implementación efectiva de estrategias didácticas que promuevan un aprendizaje sólido y duradero. Este estudio tiene el potencial de proporcionar valiosos conocimientos para mejorar las prácticas educativas y enfrentar los desafíos planteados por la introducción de la Nueva Escuela Mexicana en el campo de los lenguajes.
+Este proyecto de investigación proporciona una visión integral de las necesidades, desafíos y estrategias didácticas relacionadas con la lectoescritura en el segundo grado de primaria, ofreciendo  valiosos conocimientos para mejorar la calidad de la enseñanza en este ámbito.
+Trabajar con RStudio nos sumergio  en un trabajo lleno de desafíos y descubrimientos, donde nos encontrabamos entre la fascinación y la frustración. 
+Al sumergirnos en el mundo de la programación en R, experimentamos una mezcla de entusiasmo y desconcierto. La  plataforma de R puede resultar desconcertante al principio, pero conforme avanzamos y realizabamos los graficos  se convierte en una fuente de orgullo.
+
+Los desafíos técnicos a menudo nos llevan a explorar la gran comunidad en línea que respalda a RStudio. Las paginas web, blogs y recursos educativos fueron de gran ayuda en la orientación pues la colaboración virtual nos ayudo a la inevitable frustaccion en donde se desconocia el codigo en  donde los  errores y obstáculos pueden provocaron  sensaciones de desesperación.
+
+Cada error, cada desafío superado, se traduce en una comprensión más profunda de la programación en R y del análisis de datos. 
+Al final del día, trabajar con RStudio no solo es un ejercicio técnico, sino una experiencia que da forma a nuestra paciencia, resiliencia y habilidades analíticas. En este trabajo, nos enfrentamos a desafíos, aprendimos a transformar datos en conocimientos significativos.
+
+
+## REFERENCIAS
+
+
+Castedo, M. y Molinari, C (1999). Enseñar y aprender a leer. México: Novedades Educativas.
+
+Cisterna (2005) Categorización y triangulación como procesos de validación del conocimiento en investigación
+
+Cristóbal Muñoz Sara (2015).La metodología de lectoescritura en educación infantil y su influencia en el aprendizaje lectoescritor de los alumnos. Universidad de Valladolid. consultado en: https://uvadoc.uva.es/bitstream/handle/10324/3204/TFM-B.36.pdf?sequence=1 
+
+Denzin, N. K. (1978). The Research Act: A Theoretical Introduction to Sociological Methods. McGraw-Hill.
+
+Díaz-Bravo, Laura, Torruco-García, Uri, Martínez-Hernández, Mildred, & Varela-Ruiz, Margarita. (2013). La entrevista, recurso flexible y dinámico. Investigación en educación médica, 2(7), 162-167.
+Recuperado en 18 de noviembre de 2023, de http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009&lng=es&tlng=es.
+
+Díaz F. “Estrategias docentes para un aprendizaje significativo”. México. Mc Graw Hill. (1999).
+
+Díaz, F. y Hernández, G. (2010). Estrategias docentes para un aprendizaje significativo. Una interpretación constructivista. México: McGraw-Hill.
+
+Driessnack, M., Sousa, V. y Costa, I. (2007). Revisión de los diseños de investigación relevantes para la enfermería: Métodos mixtos y múltiples. Revista Latino- Americana de Enfermagem. Pág. 179-182. Recuperado de http://www.scielo.br/pdf/_v15n5a24.pd
+
+Elena Villegas (2023). Aprendizaje prenatal. ¿Qué aprende el feto?. Edición España. Revista digital Hola.com. Sitio web:https://www.hola.com/padres/20230424344952/aprendizaje-prenatal-que-es/.  
+
+Ferreiro, E. y M. Gómez Palacios, (2004) Nuevas perspectivas sobre los procesos de lectura y escritura, México: Editorial Siglo XXI
+Galera, F. (2001). Aspectos didácticos de la lectoescritura. Grupo Editorial Universitario.
+
+García Ferrando, M. (1993). La Encuesta. En M. García Ferrando, J. Ibáñez y F. Alvira (Comp.), El análisis de la realidad social. Métodos y técnicas de investigación (pp. 123-152). Madrid, España: Alianza Universidad.
+
+Hernández, R. Fernández C. y Baptista P. (2010). Metodología de la Investigación. México DF: Mc Graw Hill.
+
+Hidalgo, C. D., & de Medina, S. (2009). La importancia de la lectoescritura en la educación infantil. Revista digital innovación y experiencias educativas, 1-10.
+
+Holguín Aída (2022). La voz, la escritura y la pintura. El devenir, revista digital. sitio web: https://devenir.devenir.com.mx/la-voz-la-escritura-y-la-pintura/#:~:text=Fran%C3%A7ois%2DMarie%20Arouet%2C%20mejor%20conocido,menos%20no%20en%20esta%20ocasi%C3%B3n%2D.
+
+
